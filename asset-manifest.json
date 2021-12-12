@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.fd1e6aeb.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.3a4542b0.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.3a4542b0.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.5639cedc.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.5639cedc.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.d32a819c.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.d32a819c.js.map",
     "static/js/2.8e822043.chunk.js": "/React_Portfolio/static/js/2.8e822043.chunk.js",
@@ -10,9 +10,12 @@
     "index.html": "/React_Portfolio/index.html",
     "static/css/main.fd1e6aeb.chunk.css.map": "/React_Portfolio/static/css/main.fd1e6aeb.chunk.css.map",
     "static/js/2.8e822043.chunk.js.LICENSE.txt": "/React_Portfolio/static/js/2.8e822043.chunk.js.LICENSE.txt",
+    "static/media/Big_Query_Github.c63c0a46.png": "/React_Portfolio/static/media/Big_Query_Github.c63c0a46.png",
     "static/media/Engineering-Salary-Search.3560d5bd.png": "/React_Portfolio/static/media/Engineering-Salary-Search.3560d5bd.png",
+    "static/media/Goal_Tracking.6777cecb.png": "/React_Portfolio/static/media/Goal_Tracking.6777cecb.png",
     "static/media/MTF.c3c70d7a.png": "/React_Portfolio/static/media/MTF.c3c70d7a.png",
     "static/media/Nice_Shirt_Falls_HeadShot.8679b3bc.jpg": "/React_Portfolio/static/media/Nice_Shirt_Falls_HeadShot.8679b3bc.jpg",
+    "static/media/Stock_Graph.e2e3c80b.png": "/React_Portfolio/static/media/Stock_Graph.e2e3c80b.png",
     "static/media/To-Do-List.5df74b4d.png": "/React_Portfolio/static/media/To-Do-List.5df74b4d.png",
     "static/media/ansible.8250ab80.svg": "/React_Portfolio/static/media/ansible.8250ab80.svg",
     "static/media/bamboo.7b4aa518.svg": "/React_Portfolio/static/media/bamboo.7b4aa518.svg",
@@ -40,6 +43,6 @@
     "static/js/runtime-main.d32a819c.js",
     "static/js/2.8e822043.chunk.js",
     "static/css/main.fd1e6aeb.chunk.css",
-    "static/js/main.3a4542b0.chunk.js"
+    "static/js/main.5639cedc.chunk.js"
   ]
 }
