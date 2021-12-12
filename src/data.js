@@ -27,12 +27,4 @@ export const projects = [
     image: MTF,
     link: "https://github.com/RileyJRaso/MTF_Encoder_and_Decoder",
   },
-  {
-    title: "",
-    subtitle: "",
-    description:
-      "",
-    image: "",
-    link: "",
-  },
 ];
