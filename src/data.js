@@ -1,6 +1,10 @@
 import To_Do_List from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/To-Do-List.png";
 import Salary_Search from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Engineering-Salary-Search.png";
 import MTF from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/MTF.png";
+import Goal_Tracking from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Goal_Tracking.png";
+import Big_Query_Github from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Big_Query_Github.png";
+import Stock_Graph from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Stock_Graph.png";
+
 
 export const projects = [
   {
@@ -26,5 +30,29 @@ export const projects = [
       "A program created in Python for Encoding and Decoding move to front text files. Written in Python uses Unittest for testing of methods, After creating unit tests a final coverage of 90% was achieved",
     image: MTF,
     link: "https://github.com/RileyJRaso/MTF_Encoder_and_Decoder",
+  },
+  {
+    title: "Goal Tracking Python Script",
+    subtitle: "Solo Project",
+    description:
+      "software intended to interact with a SQL database to store time spent on goals of the user. the software will also display the data in a way readable to most users, Writes and reads from Database through SQL queries done through python. Models data using the matplotlib library",
+    image: Goal_Tracking,
+    link: "https://github.com/RileyJRaso/Goal-Tracking",
+  },
+  {
+    title: "Github BigQuery Analysis Python Script",
+    subtitle: "Solo Project",
+    description:
+      "a python script for getting Github data from bigquery and display to user in a readable way, Utilized a public data set from Google BigQuery for the data on Github repos. Wrote a SQL query to get the top X languages or committers in Github repos, where X is passed in by user.",
+    image: Big_Query_Github,
+    link: "https://github.com/RileyJRaso/Github_bigquery__analysis",
+  },
+  {
+    title: "S&P 500 Stock Data Analysis Python Script",
+    subtitle: "Solo Project",
+    description:
+      "a python script for getting Stock data from kaggle and display to user in a readable way, Parse data stored in a .csv file and worked with data using a pandas DataFrame when processing. Wrote data manipulation functions using pandas features such as .loc and .DataFrame",
+    image: Stock_Graph,
+    link: "https://github.com/RileyJRaso/S-P-500-stock-data-Analysis",
   },
 ];
