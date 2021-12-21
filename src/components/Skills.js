@@ -11,6 +11,7 @@ import {ReactComponent as BashLogo} from '../SVG files/gnubash.svg';
 import {ReactComponent as ReactLogo} from '../SVG files/react.svg';
 import {ReactComponent as TensorflowLogo} from '../SVG files/tensorflow.svg';
 import {ReactComponent as PandasLogo} from '../SVG files/pandas.svg';
+import {ReactComponent as TailWindCSSLogo} from '../SVG files/tailwindcss.svg';
 
 
 import {ReactComponent as GitLogo} from '../SVG files/git.svg';
@@ -23,6 +24,7 @@ import {ReactComponent as JenkinsLogo} from '../SVG files/jenkins.svg';
 import {ReactComponent as BambooLogo} from '../SVG files/bamboo.svg';
 import {ReactComponent as SeleniumLogo} from '../SVG files/selenium.svg';
 import {ReactComponent as JupyterLogo} from '../SVG files/jupyter.svg';
+import {ReactComponent as TableauLogo} from '../SVG files/tableau.svg';
 
 
 function Skills() {
@@ -99,6 +101,12 @@ function Skills() {
                 Pandas
             </span>
           </div>
+          <div className="bg-gray-800 rounded mx-16 h-10 grid grid-cols-6 my-4">
+            <TailWindCSSLogo className="place-self-center w-8 h-8" />
+            <span className="title-font text-2xl font-medium text-white col-span-5 align-text-bottom my-1">
+                Tailwind CSS
+            </span>
+          </div>
         </div>
 
 
@@ -164,6 +172,12 @@ function Skills() {
             <JupyterLogo className="place-self-center w-8 h-8" />
             <span className="title-font text-2xl font-medium text-white col-span-5 align-text-bottom my-1">
                 Jupyter Notebooks
+            </span>
+          </div>
+          <div className="bg-gray-800 rounded mx-16 grid grid-cols-6 my-4">
+            <TableauLogo className="place-self-center w-8 h-8" />
+            <span className="title-font text-2xl font-medium text-white col-span-5 align-text-bottom my-1">
+                Tableau
             </span>
           </div>
         </div>
