@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/React_Portfolio/static/css/main.fd1e6aeb.chunk.css",
-    "main.js": "/React_Portfolio/static/js/main.5639cedc.chunk.js",
-    "main.js.map": "/React_Portfolio/static/js/main.5639cedc.chunk.js.map",
+    "main.js": "/React_Portfolio/static/js/main.66a6e739.chunk.js",
+    "main.js.map": "/React_Portfolio/static/js/main.66a6e739.chunk.js.map",
     "runtime-main.js": "/React_Portfolio/static/js/runtime-main.d32a819c.js",
     "runtime-main.js.map": "/React_Portfolio/static/js/runtime-main.d32a819c.js.map",
     "static/js/2.8e822043.chunk.js": "/React_Portfolio/static/js/2.8e822043.chunk.js",
@@ -37,12 +37,14 @@
     "static/media/python.d84b2232.svg": "/React_Portfolio/static/media/python.d84b2232.svg",
     "static/media/react.f174e1ab.svg": "/React_Portfolio/static/media/react.f174e1ab.svg",
     "static/media/selenium.8d2566f2.svg": "/React_Portfolio/static/media/selenium.8d2566f2.svg",
+    "static/media/tableau.a1e0ab00.svg": "/React_Portfolio/static/media/tableau.a1e0ab00.svg",
+    "static/media/tailwindcss.3331e154.svg": "/React_Portfolio/static/media/tailwindcss.3331e154.svg",
     "static/media/tensorflow.e66577b8.svg": "/React_Portfolio/static/media/tensorflow.e66577b8.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.d32a819c.js",
     "static/js/2.8e822043.chunk.js",
     "static/css/main.fd1e6aeb.chunk.css",
-    "static/js/main.5639cedc.chunk.js"
+    "static/js/main.66a6e739.chunk.js"
   ]
 }
