@@ -1,9 +1,9 @@
-import To_Do_List from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/To-Do-List.png";
-import Salary_Search from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Engineering-Salary-Search.png";
-import MTF from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/MTF.png";
-import Goal_Tracking from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Goal_Tracking.png";
-import Big_Query_Github from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Big_Query_Github.png";
-import Stock_Graph from "/Users/rileyraso/Desktop/React_portfolio/portfolio_website/src/Media/Stock_Graph.png";
+import To_Do_List from "../src/Media/To-Do-List.png";
+import Salary_Search from "../src/Media/Engineering-Salary-Search.png";
+import MTF from "../src/Media/MTF.png";
+import Goal_Tracking from "../src/Media/Goal_Tracking.png";
+import Big_Query_Github from "../src/Media/Big_Query_Github.png";
+import Stock_Graph from "../src/Media/Stock_Graph.png";
 
 
 export const projects = [
